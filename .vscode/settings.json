@@ -1,8 +1,13 @@
 {
     "files.associations": {
+        "*.rmd": "markdown",
+        "*.R": "r",
         "iostream": "cpp",
         "ostream": "cpp",
-        "limits": "cpp"
+        "limits": "cpp",
+        "ctime": "cpp",
+        "cstdlib": "cpp",
+        "*.tcc": "cpp"
     },
     "C_Cpp.default.compilerPath": "C:\\msys64\\mingw64\\bin\\g++.exe"
 }
