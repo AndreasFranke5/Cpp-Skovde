@@ -3,4 +3,4 @@
 
 Programs written in C++.
 
-Part of the course `Programming Fundamentals with C++ G1N` at University of Skövde.
+Part of the course `IT120G Programming Fundamentals with C++ G1N` at University of Skövde.
